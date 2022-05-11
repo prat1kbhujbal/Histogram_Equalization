@@ -19,10 +19,10 @@ python3 histogram_eq.py --FilePath ../data_files/adaptive_hist_data --visualize 
 
 ### Normal Histogram Equalization
 <p align="center">
-<img src="result/images/normal_histE.png"/>
+<img src="result/histE.gif"/>
 </p>
 
 ### Adaptive Histogram Equalization
 <p align="center">
-<img src="result/images/AHE.png"/>
+<img src="result/AHE.gif"/>
 </p>
